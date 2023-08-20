@@ -37,4 +37,3 @@ urllib3
 Werkzeug
 yarg
 zipp
-pickle
