@@ -1,8 +1,7 @@
 import joblib
 import pandas as pd
 import numpy as np
-
-# loading required objects
+# loading required objectsce;
 train = joblib.load('dataset.gz')
 mnb = joblib.load('mnb.gz')
 user_final_rating = joblib.load('user_final_rating.gz')
